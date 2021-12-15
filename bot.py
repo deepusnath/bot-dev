@@ -50,4 +50,4 @@ async def on_message(message):
             await message.channel.send('Sorry, thats not right')
 
 
-client.run('OTE5MjA0MDUxMjk4Njk3MjE2.YbSZew.yROw7ROjvVZ16xjNiCzJpeCNUfo')        
+client.run('xxxxxxx')        
